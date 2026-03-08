@@ -7,12 +7,11 @@
 - 🔭 Currently exploring patterns and architecture to improve my solutions.
 - 💡 I am interested in data science and machine learning and have conducted research in this direction.
 - 💻 Enjoy enjoy writing clean and aesthetic code.
-- ⚡ Fun fact: I like to draw with acrylic or pencil graphics.
 
 
 ## Connect with Me
 
-You can also find me on [telegramm](https://t.me/tohellim).
+You can also find me on [telegramm](https://t.me/volsh3bniy).
 
 
 <!---
